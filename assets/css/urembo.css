@@ -1,0 +1,37 @@
+.fruits{
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    border: 2px solid #dd0323;
+    font-family: "DejaVu Sans Mono", serif;
+    font-size: 30px;
+
+}
+
+.cars{
+    padding: 20px;
+    margin: 20px;
+    background-color: aqua;
+    border: 5px dotted brown;
+    font-family: "Bitstream Charter", serif;
+    font-size: 30px;
+}
+.computers{
+      padding: 20px;
+    margin: 20px;
+    background-color: #5bb80e;
+    border: 5px dotted #0f61bc;
+    font-family: "Bitstream Charter", serif;
+    font-size: 30px;
+
+}
+#accessories{
+      padding: 20px;
+    margin: 20px;
+    background-color: #b21ae4;
+    border: 5px dotted #69dd08;
+    font-family: "Bitstream Charter", serif;
+    font-size: 30px;
+}
+
